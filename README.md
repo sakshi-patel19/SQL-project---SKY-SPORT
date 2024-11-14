@@ -1,4 +1,4 @@
-# SQL-project-SKY SPORT
+# SQL Project-SKY SPORT
 
 Sky Sports Channel's coverage of the FIFA World Cup includes a post-match TV program called Football Digest: Post Match Analysis. On the show, Football Pundits discuss insights and gameplay derived by the Sports Analyst using backend data analysis.
 
