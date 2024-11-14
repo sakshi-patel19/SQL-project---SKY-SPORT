@@ -15,6 +15,7 @@ Presenting insights on the program, helping viewers understand each match's even
 ## Data Analysis with MySQL
 
 To carry out these tasks, by the uses of MySQL to access two tables:
+
 group_stage_team_stats: Contains information on each team's performance in each game.
 
 overall_wc_stats: Contains data on individual team statistics.
@@ -24,6 +25,7 @@ Both tables are updated with each match.
 ## group_stage_team_stats
 
 This table includes columns such as:
+
 team_name: Name of the team.
 
 game_date: Date of the game.
@@ -41,6 +43,7 @@ and many more.
 
 ## overall_wc_stats
 This table includes columns such as:
+
 player_name: Name of the player.
 
 position: Player's position.
