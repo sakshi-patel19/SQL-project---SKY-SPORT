@@ -2,7 +2,8 @@
 
 Sky Sports Channel's coverage of the FIFA World Cup includes a post-match TV program called Football Digest: Post Match Analysis. On the show, Football Pundits discuss insights and gameplay derived by the Sports Analyst using backend data analysis.
 
-###Role of the Sports Analyst
+-Role of the Sports Analyst
+
 The Sports Analyst is responsible for:
 Analyzing data from each match to provide detailed statistics.
 
@@ -11,7 +12,8 @@ Highlighting key moments, performances, and tactical decisions.
 Presenting insights on the program, helping viewers understand each match's events and contributing factors to a team's success or failure.
 
 
-###Data Analysis with MySQL
+-Data Analysis with MySQL
+
 To carry out these tasks, by the uses of MySQL to access two tables:
 group_stage_team_stats: Contains information on each team's performance in each game.
 
@@ -19,7 +21,8 @@ overall_wc_stats: Contains data on individual team statistics.
 
 Both tables are updated with each match.
 
-###group_stage_team_stats
+-group_stage_team_stats
+
 This table includes columns such as:
 team_name: Name of the team.
 
@@ -36,7 +39,7 @@ shots_off_target: Number of shots off target.
 possession: Percentage of possession.
 and many more.
 
-###overall_wc_stats
+-overall_wc_stats
 This table includes columns such as:
 player_name: Name of the player.
 
@@ -55,10 +58,12 @@ and other relevant information.
 
 Both tables contain a column team, which is common and can be used for joining.
 
-###Comprehensive Analysis
+-Comprehensive Analysis
+
 The analyst uses this data to provide insights into each match, highlighting key moments, performances, and tactical decisions made by the coaches. These insights are presented on the program, giving viewers a deeper understanding of each match's events and the factors that contributed to a team's success or failure.
 
-###Results and Insights
+-Results and Insights
+
 The detailed analysis provided by the Sports Analyst translates into various insights shared on the Football Digest: Post Match Analysis program. These may include:
 Performance Metrics: Breakdown of how each team performed in different aspects of the game such as attacking, defending, and possession.
 
